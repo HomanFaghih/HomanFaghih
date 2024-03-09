@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @homanfag
+- 👋 Hi, I’m @homanfaghih
 - 👀 I’m interested in Game Developing
 - 🌱 I’m currently learning Unity_C#
 - 📫 How to reach me in [linkedin](https://www.linkedin.com/in/homan-faghih)
